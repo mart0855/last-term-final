@@ -1,0 +1,14 @@
+/*TEAM*/
+Designer/Developer: Alex Martin
+Site: http://www.behance.net/alex_martin
+Twitter: @realmtaxi
+Location: Ottawa, Canada
+
+/*THANKS*/
+Thanks to all the wonderful people that make the internet.
+
+/*SITE*/
+Last update: 2013/11/21
+Standards: HTML5, CSS3
+Components: Modernizer, Jquery, etc...
+Software: Adobe, Livereload, Sublime Text 2
